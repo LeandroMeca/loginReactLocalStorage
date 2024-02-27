@@ -5,4 +5,4 @@ foi utilizado localstorage porém poderia ser utilizado sessionstorage
 ## como executar
 tenha instalado no OS o npm e usar o vscode acessar a pasta do projeto e usar o comando npm start
 ## Preview
-
+https://github.com/LeandroMeca/loginReactLocalStorage/issues/1#issue-2155712448
